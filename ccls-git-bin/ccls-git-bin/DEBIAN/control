@@ -1,0 +1,8 @@
+Package: ccls-git
+Version: 1620585214
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: sieveLau<sievelau@gmail.com>
+Description: ccls binary
